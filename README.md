@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="[Clance.gif](https://github.com/LukyNeves/Imagens-Gif/blob/main/Clance.gif)"  />
+<img align="right" height="150" src="https://github.com/LukyNeves/Imagens-Gif/blob/main/Clance.gif"  />
 
 ###
 
