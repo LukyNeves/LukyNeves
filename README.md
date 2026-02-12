@@ -10,10 +10,10 @@
 ### Sobre mim
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=29F7F4&width=435&lines=Ol%C3%A1%2C+Seja+bem+vindo!!!%F0%9F%98%83%E2%9C%A8%E2%80%8B;Como+posso+te+ajudar%3F%F0%9F%A7%99%E2%80%8B)](https://git.io/typing-svg)
 
-Sou `Descrever...` e me aventuro como desenvolvedor `Descrever...`. 
+Sou... `LEMBRETE: TENHO QUE REESCREVER TODO ESSE TEXTO!` e me aventuro como desenvolvedor `UTILIZE ISSO APENAS COMO REFERENCIA`. 
 Apaixonado por tecnologia, design e ideias fora da caixa! Estou cursando `ADS` na USJT (Universidade São Judas Tadeu).
 Tenho conhecimentos em `HTML`, `CSS`, `Python`, `JavaScript`.
-Gosto de desafios que me fazem crescer! Gosto de ajudar outras pessoas dentro da área de tecnologia. Acredito que a maior forma de aprender é ensinando e costumo postar frequentemente no linkedin meus aprendizados para outras pessoas se inspirarem!
+Gosto de desafios que me fazem crescer! Gosto de ajudar outras pessoas dentro da área de tecnologia. Acredito que a maior forma de aprender é ensinando. Costumo postar frequentemente no linkedin meus aprendizados para outras pessoas se inspirarem!
 
 </div>
 </br>
