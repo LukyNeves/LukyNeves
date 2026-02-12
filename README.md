@@ -1,11 +1,16 @@
 <h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
-###
+<!-- Statistics -->
+### Estatísticas
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?LukyNeves=LukyNeves&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?LukyNeves=LukyNeves&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
+
+| ![Lukas Stats Profile](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LukyNeves&mode-daily&theme=midnight_purple&title_color=DA70D6&icon_color=EE82EE") | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LukyNeves&hide=Html&theme=midnight_purple) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LukyNeves&theme=midnight_purple) |
+| :-: | :-: | :-: |
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LukyNeves&theme=midnight_purple) | ![](https://streak-stats.demolab.com?user=LukyNeves&locale=en&mode=daily&theme=midnight_purple&hide_border=false&border_radius=5&order=3) |
+| :-: | :-: |
+
 
 ###
 
@@ -33,9 +38,6 @@
 </div>
 
 ---
-
-
-
 
 <!-- Pacman -->
 <picture>
